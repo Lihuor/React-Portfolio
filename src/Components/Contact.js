@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 
 const Contact = ({ data }) => {
-   const [url, setUrl] = useState('mailto:test@example.com?subject=subject&body=body');
+   const [url, setUrl] = useState('mailto:lihuor@gmail.com?subject=subject&body=body');
    const [name, setName] = useState('');
    const [subject, setSubject] = useState('');
    const [email, setEmail] = useState('');
@@ -79,11 +79,11 @@ const Contact = ({ data }) => {
             <aside className="four columns footer-widgets">
                <div className="widget widget_contact">
 
-					   <h4>Address and Phone</h4>
+					   <h4>Contact Details</h4>
 					   <p className="address">
 						   {data?.name}<br />
-						   {data?.address.street} <br />
-						   {data?.address.city}, {data?.address.state} {data?.address.zip}<br />
+						   {data?.email} <br />
+						   {data?.address.city}, {data?.address.state} {data?.address.country}<br />
 						   <span>{data?.phone}</span>
 					   </p>
 				   </div>

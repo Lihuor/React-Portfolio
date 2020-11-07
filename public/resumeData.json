@@ -1,40 +1,30 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
+    "name": "Lihuor Slot",
+    "occupation": "Full-stack web developer",
+    "description": "Experienced Warehouse Manager with exceptional stock management skills looking for a Full Stack Web Developer where I can employ my knowledge of web development including HTML, CSS, JavaScript and MERN Stack",
+    "image": "profilePic.JPG",
+    "bio": "My name is Lihuor, I'm a Full-stack web developer. Currently I'm building apps using javascript and React",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "email": "lihuor@gmail.com",
+    "phone": "+61 451 099 969",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "street": "",
+      "city": "Melbourne",
+      "state": "VIC",
+      "country": "Australia"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "",
+    "resumedownload": "https://docs.google.com/document/d/1VJDfsYTt-cigFNna-q05L-gXnTYIRAt9WoqyYhQlWOw/edit",
     "social": [
       {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/lihuor-slot",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "https://github.com/Lihuor",
         "className": "fa fa-github"
       }
     ]
@@ -43,46 +33,65 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
+        "school": "Monash University",
+        "degree": "Coding Boot Camp",
+        "graduated": "October 2020",
+        "description": "Graduated with Distinction"
+      },
+      {
+        "school": "Holmesglen Institute",
+        "degree": "Accounting Degree",
+        "graduated": "December 2016",
+        "description": "Graduated with Distinction"
+      },
+      {
+        "school": "Kangan Institute",
+        "degree": "Certificate 4 in Accounting",
+        "graduated": "June 2014",
         "description": "Graduated with Distinction"
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
-      },
-      {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "company": "LED Saves",
+        "title": "Warehouse Manager",
+        "years": "December 2017 - Present",
+        "description": "Warehouse stock and financial management"
       }
+      
     ],
     "skills": [
       {
-        "name": "ReactJs",
-        "level": "100%"
+        "name": "HTML5",
+        "level": "95%"
       },
       {
         "name": "CSS",
         "level": "95%"
       },
       {
+        "name": "jQuery",
+        "level": "90%"
+      },
+      {
+        "name": "MySQL",
+        "level": "92%"
+      },
+      {
+        "name": "ExpressJs",
+        "level": "95%"
+      },
+      {
+        "name": "Nodejs",
+        "level": "96%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "99%"
+      },
+      {
         "name": "Git",
         "level": "60%"
-      },
-      {
-        "name": "Figma && Adobe XD",
-        "level": "55%"
-      },
-      {
-        "name": "HTML5",
-        "level": "80%"
       },
       {
         "name": "MongoDB",
@@ -93,46 +102,30 @@
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "title": "Coronavirus (COVID-19) Web Dashboard",
+        "category": "Web Dashboard using jQuery to retrieve data from APIs",
+        "image": "covid-19.png",
+        "url": "https://lihuor.github.io/covid-dashboard/"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "title": "Trading Platform",
+        "category": "Rendering Dashboard using handlebars for the front-end and using MYSQL, NodeJs, Express, Sequelize, Unirest for the back-end",
+        "image": "trading-platform.png",
+        "url": "https://fast-lake-54569.herokuapp.com/userSummery"
       },
       {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
-      },
-      {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
-      },
-      {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "title": "Customer Relationship Management",
+        "category": "Rendering dashboard using MERN stack",
+        "image": "crm.png",
+        "url": "https://crm-9898.herokuapp.com/"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
-      },
-      {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "",
+        "user": ""
       }
     ]
   }
